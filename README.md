@@ -15,7 +15,9 @@ I'm Gifari Fajar Maulana.<br>Seorang Front-End Web Developer yang memiliki keter
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=FajarVerse&theme=react&hide_border=false&include_all_commits=false&count_private=false)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FajarVerse&theme=react&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FajarVerse&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
