@@ -18,10 +18,6 @@ I'm Gifari Fajar Maulana.<br>Seorang Front-End Web Developer yang memiliki keter
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FajarVerse&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FajarVerse&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=FajarVerse&limit=5&theme=react&combine_all_yearly_contributions=true)
@@ -29,3 +25,7 @@ I'm Gifari Fajar Maulana.<br>Seorang Front-End Web Developer yang memiliki keter
 ---
 
 [![](https://visitcount.itsvg.in/api?id=FajarVerse&icon=8&color=0)](https://visitcount.itsvg.in)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
